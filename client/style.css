@@ -1,0 +1,23 @@
+#header {
+    display: flex;
+    justify-content: center;
+    border: 1px solid gray;
+    height: max-content;
+    padding: 1em;
+}
+
+#generatorBtn {
+    height: 10rem;
+    width: 10rem;
+    border-radius: 50%;
+    background-color: blue;
+    font-size: 2em;
+    font-weight: bolder;
+    color: white;
+    border: 1px solid navy;
+}
+
+#main {
+    border: 1px solid gray;
+    height: 10px;
+}
